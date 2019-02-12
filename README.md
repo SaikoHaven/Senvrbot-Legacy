@@ -6,4 +6,4 @@ This is not my bot, I am just making modifications. Senvr owns this project and 
 Useful commands here
 https://github.com/SaikoHaven/Senvrbot/wiki
 ### invite
-https://discordapp.com/oauth2/authorize?client_id=512052625504468993&scope=bot&permissions=3263488 (Senvrbot Ultra-Classic
+https://discordapp.com/oauth2/authorize?client_id=512052625504468993&scope=bot&permissions=3263488 (Senvrbot Ultra-Classic)
